@@ -124,6 +124,30 @@
     transition: all 0.3s ease;
 }
 
+#comprobar {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #2a223d;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    color: #e4e4e4;
+    font-size: 16px;
+}
+
+#comprobar p {
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+#comprobar p.red {
+    color: #ff4d4d;
+}
+
+#comprobar p.green {
+    color: #4CAF50;
+}
+
+
 #windows 
 {
     background-color: #1a1a1a;
